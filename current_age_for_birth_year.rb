@@ -1,5 +1,7 @@
-def current_age_for_birth_year(1984)
+def current_age_for_birth_year(birth year)
   
-  2003 -1984
+  birth year = 1984
+  
+  2003 -birth year
   
 end
